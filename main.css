@@ -1,0 +1,17 @@
+#True {
+  display: none;
+}
+
+#div1 {
+  border: 1px solid black;
+}
+
+#pp {
+  font-weight: bold;
+}
+
+#points {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
